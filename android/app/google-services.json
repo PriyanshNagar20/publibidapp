@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "130926483499",
+    "project_id": "startuppublibid",
+    "storage_bucket": "startuppublibid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130926483499:android:5109dbae693ec8c92c726e",
+        "android_client_info": {
+          "package_name": "com.example.startup_publibid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130926483499-utuveoja81j4sbc22ub26agn1h8mifs8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFvIToXZruy0gvTx1QdQ50QYzkWcW01Kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130926483499-utuveoja81j4sbc22ub26agn1h8mifs8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
